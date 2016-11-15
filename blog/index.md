@@ -1,6 +1,6 @@
 ---
 layout: site
 ---
-#My Blog
+# My Blog
 
 {% include posts.html %}
