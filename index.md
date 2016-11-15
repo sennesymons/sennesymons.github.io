@@ -6,4 +6,4 @@ Welcome to my Github Pages website!
 Using Markdown!
 
 
-[cat](images/cat.jpeg "hover")
+![cat](images/cat.jpg "hover")
