@@ -8,4 +8,6 @@ Using Markdown!
 
 Check my [CV](cv) here! 
 
+Check my [Blog](blog) here!
+
 ![cat](images/cat.jpg "hover")
