@@ -3,4 +3,4 @@ layout: site
 ---
 #My Blog
 
-{M incluse posts.html %}
+{% incluse posts.html %}
